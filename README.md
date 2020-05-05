@@ -14,5 +14,5 @@ Note: I've decided to implement a regular challenge for myself to improve my dat
 Therefore, I generate a random link to a dataset available on the UCI ML Repository and build a machine learning model
 to analyze the data.
 
-You can my Random Dataset Link Generator here: https://github.com/shraddha-an/Dataset-Randomizer or by browsing through my 
+You can view my Random Dataset Link Generator here: https://github.com/shraddha-an/Dataset-Randomizer or by browsing through my 
 GitHub profile for the Dataset-Randomizer repository.
